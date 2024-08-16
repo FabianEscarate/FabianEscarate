@@ -1,6 +1,6 @@
 
-<h1 align="center">HOla 👋, Soy Fabian Escarte</h1>  
-<h3 align="center">Un apasionado Desarrollador Full-Stack, padre de 2 niñas y esposo</h3>  
+<h1 align="center">Hola 👋, Soy Fabian Escarte</h1>  
+<h3 align="center">Un apasionado Desarrollador Full-Stack, Padre de 2 niñas y Esposo</h3>  
   
 - 🔭 Actualmente trabajo en **Walmart**  
   
