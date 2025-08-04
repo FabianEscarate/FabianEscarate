@@ -4,7 +4,7 @@
   
 - 🔭 Actualmente trabajo en **Amaris**  
   
-- 🌱 Actualmente practicando **CI/CD**  
+- 🌱 Actualmente practicando **Java**  
   
 - 💬 Preguntame sobre **React, JavaScript, Typescript, Docker**  
   
