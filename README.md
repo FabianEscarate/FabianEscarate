@@ -4,13 +4,13 @@
   
 - 🔭 Actualmente trabajo en **Amaris**  
   
-- 🌱 Actualmente practicando **Java** & **clean arquitecture**
+- 🌱 Actualmente practicando **Java**, **clean arquitecture**, **self-hosted** & **CI/CD**
   
 - 💬 Preguntame sobre **React, JavaScript, Typescript, Docker**  
   
 - ⚡ Dato divertido **Cantar en la ducha.**
   
-- 🛠 Pasatiempos: **Tocar guitarra** & **Carpinteria**
+- 🛠 Pasatiempos: **homeLab**, **self-hosted** & **Carpinteria**
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
