@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Soy Fabian Escarte</h1>  
-<h3 align="center">Un apasionado Desarrollador Full-Stack, Padre de 2 niñas y Esposo</h3>  
+<h3 align="center">Un apasionado Desarrollador Full-Stack, Padre de 3 niñas y Esposo</h3>  
   
 - 🔭 Actualmente trabajo en **Amaris**  
   
